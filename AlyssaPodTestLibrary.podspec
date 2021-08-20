@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "AlyssaPodTestLibrary"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of AlyssaPodTestLibrary."
+  spec.summary      = "This is the description of AlyssaPodTestLibrary."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -27,7 +27,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/AlyssaPodTestLibrary"
+  spec.homepage     = "https://github.com/yuhao900914/AlyssaPodTestLibrary"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
